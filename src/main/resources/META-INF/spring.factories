@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.grade.starters.webutils.TopadWebUtilsAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.grade.starters.webutils.GradeWebUtilsAutoConfiguration
